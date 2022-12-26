@@ -43,3 +43,5 @@ btn.addEventListener('click', async () => {
         alert('Please enter a valid city!');
     }
 });
+
+btn.click();
